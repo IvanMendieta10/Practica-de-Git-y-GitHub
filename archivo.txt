@@ -1,1 +1,2 @@
 Practicando GIt y GitHub
+Para tener esta linea, realizar un pull desde la terminal de git.
